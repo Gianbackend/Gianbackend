@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions for logistics and commercial.
-- 🎓 &nbsp; Industrial Enginirneign - University of Perú, Code GYM  University - Computer & Emerging Sciences Developer.
+- 🎓 &nbsp; Industrial Engineering - University of Lima, Code GYM University - Computer & Emerging Sciences Developer.
 - 💼 &nbsp; IT&ERP Consulting, SAP, Logistics and Commercial Communications.
 - 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts and data science.
 - 🍭 &nbsp; Planning, exercise, and good food as hobbies
